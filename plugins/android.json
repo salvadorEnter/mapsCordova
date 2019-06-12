@@ -1,0 +1,21 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.salvadorlopez.mapsmarkerscrm"
+    },
+    "com.lampa.startapp": {
+      "PACKAGE_NAME": "org.salvadorlopez.mapsmarkerscrm"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "org.salvadorlopez.mapsmarkerscrm"
+    }
+  },
+  "dependent_plugins": {}
+}

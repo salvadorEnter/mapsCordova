@@ -1,0 +1,37 @@
+# Mac
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+.apdisk
+
+# iOS Platform
+platforms/ios/build/
+platforms/ios/www/
+platforms/ios/cordova/console.log
+*.xcuserdatad
+
+# Android Platform
+platforms/android/.gradle
+platforms/android/build
+platforms/android/assets/www
+platforms/android/local.properties
+platforms/android/CordovaLib/build
+platforms/android/CordovaLib/gen
+platforms/android/CordovaLib/local.properties
+
+# Browser
+platforms/browser/www
+
+# res
+resources/signing
+
+node_modules/
